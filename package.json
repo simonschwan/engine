@@ -1,0 +1,19 @@
+{
+  "name": "amos-engine-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "engine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonschwan/engine.git"
+  },
+  "author": "Simon Schwan <public.sias@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonschwan/engine/issues"
+  },
+  "homepage": "https://github.com/simonschwan/engine#readme"
+}

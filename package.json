@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/simonschwan/engine/issues"
   },
-  "homepage": "https://github.com/simonschwan/engine#readme"
+  "homepage": "https://github.com/simonschwan/engine#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
